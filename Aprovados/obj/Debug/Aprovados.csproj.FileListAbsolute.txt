@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Aprovados\Aprovados\bin\Debug\Aprovados.exe.config
+C:\temp\ws-vs2019\Aprovados\Aprovados\bin\Debug\Aprovados.exe
+C:\temp\ws-vs2019\Aprovados\Aprovados\bin\Debug\Aprovados.pdb
+C:\temp\ws-vs2019\Aprovados\Aprovados\obj\Debug\Aprovados.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Aprovados\Aprovados\obj\Debug\Aprovados.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Aprovados\Aprovados\obj\Debug\Aprovados.exe
+C:\temp\ws-vs2019\Aprovados\Aprovados\obj\Debug\Aprovados.pdb
